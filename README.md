@@ -1,5 +1,13 @@
 # react-fizzbuzz-machine
 
+## Description
+
+This is a practice project to create a React version of Fizz Buzz. Currently it has one component that takes props for the fizz and buzz values. The numbers can be incremented and decremented between 1 and 100, and will display fizz if it's a multiple of the fizz number, buzz if it's a multiple of the buzz number, and fizzbuzz if it's a multiple of both.
+
+Future plans are to create a form to input the fizz and buzz values and add styling.
+
+## Created with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
